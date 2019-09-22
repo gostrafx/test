@@ -1,8 +1,7 @@
 "use strict"
 
-(function(){
+import cube from 'info.js';
 
-alert('heelo');
+console.log(cube());
 
-})();
 
